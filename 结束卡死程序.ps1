@@ -1,0 +1,1 @@
+﻿ps|where {$_.Responding -eq $false}|spps
